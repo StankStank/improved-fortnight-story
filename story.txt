@@ -3,3 +3,6 @@ The lazy brown dog lives by the river.
 The dog smelled something that smells smelly. 
 
 What a good dog.  What a very good dog.  
+
+But despite his goodness, he was plagued by paralyzing
+laziness that kept him from investigating the smell.
